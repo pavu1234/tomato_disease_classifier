@@ -1,0 +1,75 @@
+{
+  "loss": 0.11638785153627396,
+  "accuracy": 0.9568181818181818,
+  "macro_precision": 0.9573209337039651,
+  "macro_recall": 0.9577694235588973,
+  "macro_f1": 0.9565985410261048,
+  "weighted_precision": 0.9577398703173945,
+  "weighted_recall": 0.9568181818181818,
+  "weighted_f1": 0.9563121721830349,
+  "sample_count": 440,
+  "class_metrics": {
+    "early_blight": {
+      "precision": 0.9784172661870504,
+      "recall": 0.8947368421052632,
+      "f1-score": 0.9347079037800687,
+      "support": 152.0
+    },
+    "healthy": {
+      "precision": 0.9487179487179487,
+      "recall": 1.0,
+      "f1-score": 0.9736842105263158,
+      "support": 148.0
+    },
+    "late_blight": {
+      "precision": 0.9448275862068966,
+      "recall": 0.9785714285714285,
+      "f1-score": 0.9614035087719298,
+      "support": 140.0
+    }
+  },
+  "warnings": [],
+  "confusion_matrix": [
+    [
+      136,
+      8,
+      8
+    ],
+    [
+      0,
+      148,
+      0
+    ],
+    [
+      3,
+      0,
+      137
+    ]
+  ],
+  "normalized_confusion_matrix": [
+    [
+      0.8947368421052632,
+      0.05263157894736842,
+      0.05263157894736842
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.02142857142857143,
+      0.0,
+      0.9785714285714285
+    ]
+  ],
+  "inference_time": {
+    "mean_ms_per_image": 8.868968111364046,
+    "median_ms_per_image": 8.087649750024184,
+    "p95_ms_per_image": 13.904590999970878,
+    "note": "Batched forward-pass wall time divided by batch size; includes first trace, excludes file decoding. Not Raspberry Pi latency."
+  },
+  "model_sha256": "422bbd1a89e29c0c533ffe95e749baa8936d5f9f1dd2d2090fae234eafed0171",
+  "timestamp": "2026-10-06T09:01:48.309574+00:00",
+  "performance_scope": "validation development performance"
+}

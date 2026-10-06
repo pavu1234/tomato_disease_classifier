@@ -1,0 +1,30 @@
+{
+  "best_model.keras": {
+    "bytes": 9090367,
+    "sha256": "422bbd1a89e29c0c533ffe95e749baa8936d5f9f1dd2d2090fae234eafed0171"
+  },
+  "class_names.json": {
+    "bytes": 50,
+    "sha256": "d062afd280d79c59d93431cc47c6652cf41c3b21a58a2b001f734d5702ab00a8"
+  },
+  "frozen_model.json": {
+    "bytes": 1254,
+    "sha256": "2b2247ce71b491f4ec81043191f4686e358cf855b60bb32cbbecaa172d09578e"
+  },
+  "last_model.keras": {
+    "bytes": 9090366,
+    "sha256": "eca3718b876f53581623b21c6b9a7d70f628f99b8d8b649d351155ffc64cc3e1"
+  },
+  "stage1_best_model.keras": {
+    "bytes": 5197043,
+    "sha256": "b80a0b85d80b171fd0eca7c52c4cd5d82d8b0b436bb1c070eacf7049601ae23d"
+  },
+  "tomato_disease_mobilenetv3_dynamic_range.tflite": {
+    "bytes": 1186360,
+    "sha256": "514002767be2c65e027952e844b1a38924604553db0b6443af0d8124d9374e66"
+  },
+  "tomato_disease_mobilenetv3_float32.tflite": {
+    "bytes": 4030360,
+    "sha256": "e6870940d15516820e946a80f39a44153fd3e617f371011186298a0bf2eb6c73"
+  }
+}

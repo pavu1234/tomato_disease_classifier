@@ -1,0 +1,13 @@
+{
+  "status": "applied_with_user_approval",
+  "timestamp": "2026-10-06T08:53:57.153938+00:00",
+  "counts": {
+    "healthy": 995,
+    "early_blight": 991,
+    "late_blight": 916
+  },
+  "images": 2902,
+  "leaf_groups": 726,
+  "policy": "Exclude all source/duplicate components touching unverified metadata or cross-label candidates; original source unchanged.",
+  "recovery_note": "Prior unsaved checkpoints lost in runtime reset. Same approved image list, seed, settings and split algorithm restored. No previous test evaluation occurred."
+}

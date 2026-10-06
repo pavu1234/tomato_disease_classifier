@@ -1,0 +1,102 @@
+{
+  "dataset_counts": {
+    "train": {
+      "early_blight": 691,
+      "healthy": 699,
+      "late_blight": 648
+    },
+    "val": {
+      "early_blight": 152,
+      "healthy": 148,
+      "late_blight": 140
+    },
+    "test_locked": {
+      "early_blight": 148,
+      "healthy": 148,
+      "late_blight": 128
+    }
+  },
+  "class_order": [
+    "early_blight",
+    "healthy",
+    "late_blight"
+  ],
+  "architecture": "MobileNetV3Small",
+  "pretraining": "ImageNet",
+  "stage_results": {
+    "stage1": {
+      "loss": 0.12264909595251083,
+      "accuracy": 0.95,
+      "macro_precision": 0.9501678876678876,
+      "macro_recall": 0.9508145363408521,
+      "macro_f1": 0.9496819900416679,
+      "weighted_precision": 0.9505265567765568,
+      "weighted_recall": 0.95,
+      "weighted_f1": 0.9494359088924318,
+      "sample_count": 440,
+      "class_metrics": {
+        "early_blight": {
+          "precision": 0.9642857142857143,
+          "recall": 0.8881578947368421,
+          "f1-score": 0.9246575342465754,
+          "support": 152.0
+        },
+        "healthy": {
+          "precision": 0.9487179487179487,
+          "recall": 1.0,
+          "f1-score": 0.9736842105263158,
+          "support": 148.0
+        },
+        "late_blight": {
+          "precision": 0.9375,
+          "recall": 0.9642857142857143,
+          "f1-score": 0.9507042253521126,
+          "support": 140.0
+        }
+      },
+      "warnings": []
+    },
+    "finetune": {
+      "loss": 0.11638785153627396,
+      "accuracy": 0.9568181818181818,
+      "macro_precision": 0.9573209337039651,
+      "macro_recall": 0.9577694235588973,
+      "macro_f1": 0.9565985410261048,
+      "weighted_precision": 0.9577398703173945,
+      "weighted_recall": 0.9568181818181818,
+      "weighted_f1": 0.9563121721830349,
+      "sample_count": 440,
+      "class_metrics": {
+        "early_blight": {
+          "precision": 0.9784172661870504,
+          "recall": 0.8947368421052632,
+          "f1-score": 0.9347079037800687,
+          "support": 152.0
+        },
+        "healthy": {
+          "precision": 0.9487179487179487,
+          "recall": 1.0,
+          "f1-score": 0.9736842105263158,
+          "support": 148.0
+        },
+        "late_blight": {
+          "precision": 0.9448275862068966,
+          "recall": 0.9785714285714285,
+          "f1-score": 0.9614035087719298,
+          "support": 140.0
+        }
+      },
+      "warnings": []
+    }
+  },
+  "selected_stage": "finetune",
+  "parameter_count": 1013363,
+  "approximate_float32_weight_bytes": 4053452,
+  "saved_model_bytes": 9090367,
+  "training_duration_this_invocation_seconds": 356.58562898700006,
+  "warnings": [
+    "Limited/curated data cannot establish field generalization.",
+    "Resume restores optimizer/epoch/best checkpoint but restarts callback patience and shuffle stream; not bitwise equivalent to uninterrupted training."
+  ],
+  "statement": "No locked test-set metrics were used during model training or selection."
+}

@@ -1,0 +1,12 @@
+{
+  "status": "proposal_only_not_applied",
+  "eligible_images": 2902,
+  "excluded_images": 1598,
+  "eligible_class_counts": {
+    "healthy": 995,
+    "early_blight": 991,
+    "late_blight": 916
+  },
+  "eligible_leaf_groups": 726,
+  "policy": "Exclude every source/duplicate connected component that touches unverified metadata or a cross-label similarity candidate. No relabelling; no threshold change. Requires user decision before continuing under original stop-on-blocker instruction."
+}

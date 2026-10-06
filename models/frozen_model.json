@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-10-06T09:01:08.100471+00:00",
+  "model_sha256": "422bbd1a89e29c0c533ffe95e749baa8936d5f9f1dd2d2090fae234eafed0171",
+  "class_names_sha256": "d062afd280d79c59d93431cc47c6652cf41c3b21a58a2b001f734d5702ab00a8",
+  "lock_checksum": "270434e43d34d76078d69f7239464b1ac67f8b3b80a77dcba76ff792d5ec716e",
+  "development_config": {
+    "seed": 42,
+    "classes": {
+      "expected": [
+        "early_blight",
+        "healthy",
+        "late_blight"
+      ]
+    },
+    "image": {
+      "height": 224,
+      "width": 224,
+      "channels": 3,
+      "minimum_dimension": 32,
+      "supported_extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".webp"
+      ]
+    },
+    "model": {
+      "architecture": "MobileNetV3Small",
+      "pretrained_weights": "imagenet",
+      "fine_tune_last_n_layers": 25,
+      "dropout_1": 0.3,
+      "dropout_2": 0.2,
+      "low_confidence_threshold": 0.5
+    },
+    "training": {
+      "batch_size": 16,
+      "stage1_epochs": 30,
+      "fine_tune_epochs": 15,
+      "stage1_learning_rate": 0.001,
+      "fine_tune_learning_rate": 1e-05,
+      "early_stopping_patience": 7,
+      "cache_dataset": false,
+      "class_imbalance_ratio_threshold": 1.2
+    }
+  },
+  "selected_stage": "finetune"
+}

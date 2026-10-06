@@ -1,0 +1,116 @@
+{
+  "status": "complete",
+  "stage": "finetune",
+  "next_epoch": 15,
+  "best_loss": 0.11638778448104858,
+  "config": {
+    "seed": 42,
+    "classes": {
+      "expected": [
+        "early_blight",
+        "healthy",
+        "late_blight"
+      ]
+    },
+    "image": {
+      "height": 224,
+      "width": 224,
+      "channels": 3,
+      "minimum_dimension": 32,
+      "supported_extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".webp"
+      ]
+    },
+    "model": {
+      "architecture": "MobileNetV3Small",
+      "pretrained_weights": "imagenet",
+      "fine_tune_last_n_layers": 25,
+      "dropout_1": 0.3,
+      "dropout_2": 0.2,
+      "low_confidence_threshold": 0.5
+    },
+    "training": {
+      "batch_size": 16,
+      "stage1_epochs": 30,
+      "fine_tune_epochs": 15,
+      "stage1_learning_rate": 0.001,
+      "fine_tune_learning_rate": 1e-05,
+      "early_stopping_patience": 7,
+      "cache_dataset": false,
+      "class_imbalance_ratio_threshold": 1.2
+    }
+  },
+  "skip_fine_tune": false,
+  "lock_checksum": "270434e43d34d76078d69f7239464b1ac67f8b3b80a77dcba76ff792d5ec716e",
+  "created_at": "2026-10-06T08:55:12.512215+00:00",
+  "base_name": "MobilenetV3small",
+  "stage_results": {
+    "stage1": {
+      "loss": 0.12264909595251083,
+      "accuracy": 0.95,
+      "macro_precision": 0.9501678876678876,
+      "macro_recall": 0.9508145363408521,
+      "macro_f1": 0.9496819900416679,
+      "weighted_precision": 0.9505265567765568,
+      "weighted_recall": 0.95,
+      "weighted_f1": 0.9494359088924318,
+      "sample_count": 440,
+      "class_metrics": {
+        "early_blight": {
+          "precision": 0.9642857142857143,
+          "recall": 0.8881578947368421,
+          "f1-score": 0.9246575342465754,
+          "support": 152.0
+        },
+        "healthy": {
+          "precision": 0.9487179487179487,
+          "recall": 1.0,
+          "f1-score": 0.9736842105263158,
+          "support": 148.0
+        },
+        "late_blight": {
+          "precision": 0.9375,
+          "recall": 0.9642857142857143,
+          "f1-score": 0.9507042253521126,
+          "support": 140.0
+        }
+      },
+      "warnings": []
+    },
+    "finetune": {
+      "loss": 0.11638785153627396,
+      "accuracy": 0.9568181818181818,
+      "macro_precision": 0.9573209337039651,
+      "macro_recall": 0.9577694235588973,
+      "macro_f1": 0.9565985410261048,
+      "weighted_precision": 0.9577398703173945,
+      "weighted_recall": 0.9568181818181818,
+      "weighted_f1": 0.9563121721830349,
+      "sample_count": 440,
+      "class_metrics": {
+        "early_blight": {
+          "precision": 0.9784172661870504,
+          "recall": 0.8947368421052632,
+          "f1-score": 0.9347079037800687,
+          "support": 152.0
+        },
+        "healthy": {
+          "precision": 0.9487179487179487,
+          "recall": 1.0,
+          "f1-score": 0.9736842105263158,
+          "support": 148.0
+        },
+        "late_blight": {
+          "precision": 0.9448275862068966,
+          "recall": 0.9785714285714285,
+          "f1-score": 0.9614035087719298,
+          "support": 140.0
+        }
+      },
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "used": false,
+  "weights": null,
+  "training_counts": {
+    "early_blight": 691,
+    "healthy": 699,
+    "late_blight": 648
+  }
+}

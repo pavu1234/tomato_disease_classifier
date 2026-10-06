@@ -1,0 +1,3398 @@
+{
+  "lock_checksum": "270434e43d34d76078d69f7239464b1ac67f8b3b80a77dcba76ff792d5ec716e",
+  "verified_at": "2026-10-06T08:54:55.776754+00:00",
+  "test_stats": [
+    {
+      "path": "data/processed/test_locked/early_blight/c22e0453dc9b809e9acd60ef.png",
+      "stat": [
+        105125,
+        1791276847477074250,
+        1791276847477074250
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/3c477f5994ade33bee2a42fc.png",
+      "stat": [
+        102964,
+        1791276847489074467,
+        1791276847489074467
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/bf8d3e8ae76a16ac07818d01.png",
+      "stat": [
+        130776,
+        1791276847505074758,
+        1791276847505074758
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/bb60d2357ae6c539de33b704.png",
+      "stat": [
+        98053,
+        1791276847557075701,
+        1791276847557075701
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e1f27f487655d20b2d206b64.png",
+      "stat": [
+        104192,
+        1791276847713078529,
+        1791276847713078529
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/ebdc5ee7a168f02c879eb36a.png",
+      "stat": [
+        135749,
+        1791276848045084549,
+        1791276848045084549
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/6962cf4cea1ca02436410e19.png",
+      "stat": [
+        106056,
+        1791276848265088537,
+        1791276848265088537
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e0e3b6c18a0a7e876462595a.png",
+      "stat": [
+        103398,
+        1791276848313089408,
+        1791276848313089408
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/d99c68ed55ec8e843da5e826.png",
+      "stat": [
+        109995,
+        1791276848421091366,
+        1791276848421091366
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/730e37b88ac043fca7ce8fcd.png",
+      "stat": [
+        103697,
+        1791276848457092018,
+        1791276848457092018
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/61522b1195dd3ac02ec1d7ec.png",
+      "stat": [
+        114742,
+        1791276848489092598,
+        1791276848489092598
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/ad0becb6d6d280c816ff9d00.png",
+      "stat": [
+        103989,
+        1791276848677096007,
+        1791276848677096007
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/2d826100afe3cf89958fa921.png",
+      "stat": [
+        131421,
+        1791276848741097167,
+        1791276848741097167
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/dfdddb5eba085d2adb4c6202.png",
+      "stat": [
+        124588,
+        1791276848925100503,
+        1791276848925100503
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/50f82c76d7419c49648f7d3a.png",
+      "stat": [
+        113072,
+        1791276849089103476,
+        1791276849089103476
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/fa57c85796c09653fdbe94cc.png",
+      "stat": [
+        123178,
+        1791276849133104274,
+        1791276849133104274
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/a8015db2b6e896349d2e4b2a.png",
+      "stat": [
+        107765,
+        1791276849321107193,
+        1791276849321107193
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/5d53d5fc4332837d3d2abb3b.png",
+      "stat": [
+        120924,
+        1791276849337107417,
+        1791276849337107417
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/997db6b577cb1a489b167c10.png",
+      "stat": [
+        100783,
+        1791276849369107867,
+        1791276849369107867
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/15bddcc0d6166a6027eaac29.png",
+      "stat": [
+        146308,
+        1791276849605111185,
+        1791276849605111185
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/99a3f6ce5e5a93ed2bb033a1.png",
+      "stat": [
+        128722,
+        1791276849665112029,
+        1791276849665112029
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0207d351e4b0945336afbca0.png",
+      "stat": [
+        89997,
+        1791276849681112253,
+        1791276849681112253
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/7b0029f79d9afa80b847df07.png",
+      "stat": [
+        88434,
+        1791276849793113828,
+        1791276849793113828
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e31998645d4c294fbc149080.png",
+      "stat": [
+        103237,
+        1791276849809114053,
+        1791276849809114053
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c43ebccf06216e687d01be64.png",
+      "stat": [
+        127965,
+        1791276849869114896,
+        1791276849869114896
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/de28e51e8dd771e52ff853a9.png",
+      "stat": [
+        139413,
+        1791276850117118383,
+        1791276850117118383
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/067080ae1a1f018ed97485f0.png",
+      "stat": [
+        118508,
+        1791276850181119282,
+        1791276850181119282
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/371373f3a60b975832914482.png",
+      "stat": [
+        102463,
+        1791276850273120576,
+        1791276850273120576
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c5fcf33b7e3219f96af6d48b.png",
+      "stat": [
+        92040,
+        1791276850489123612,
+        1791276850489123612
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/fba06fc1605f89340bc64646.png",
+      "stat": [
+        122317,
+        1791276850677126255,
+        1791276850677126255
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/a1e2f9704ce33db744784f32.png",
+      "stat": [
+        105413,
+        1791276850737127098,
+        1791276850737127098
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/2e3f4fad66a45f951e80bdf2.png",
+      "stat": [
+        98203,
+        1791276851077131878,
+        1791276851077131878
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/aa4257812b6fa2932eaf3cbc.png",
+      "stat": [
+        99531,
+        1791276851125132553,
+        1791276851125132553
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e5d2d841d8139a9c6daa30bf.png",
+      "stat": [
+        139342,
+        1791276851281134746,
+        1791276851281134746
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/61e9ef8dcb6c5ae456bd358a.png",
+      "stat": [
+        109357,
+        1791276851373136040,
+        1791276851373136040
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/39eccc1f00414fdf3933fbf8.png",
+      "stat": [
+        102142,
+        1791276851389136264,
+        1791276851389136264
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/6b25d72e3237d0a352c8e427.png",
+      "stat": [
+        110380,
+        1791276851521138120,
+        1791276851521138120
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/be5229b1a907fedede347a35.png",
+      "stat": [
+        143955,
+        1791276851645139863,
+        1791276851645139863
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/9efad7ffec5feab46c29a6ab.png",
+      "stat": [
+        108504,
+        1791276851665140144,
+        1791276851665140144
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c48b2a1422396ba826af8b6b.png",
+      "stat": [
+        110203,
+        1791276851725140987,
+        1791276851725140987
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c374899c485dd09e92c5b12d.png",
+      "stat": [
+        141413,
+        1791276851749141325,
+        1791276851749141325
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/78eec4516370883c80993770.png",
+      "stat": [
+        106906,
+        1791276851769141606,
+        1791276851769141606
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/bf1132890a82b02007643f52.png",
+      "stat": [
+        110945,
+        1791276851793141944,
+        1791276851793141944
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/826845a3f370f777bfce5af7.png",
+      "stat": [
+        105897,
+        1791276851917143687,
+        1791276851917143687
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/74f99eb8c4c3535c6fa22715.png",
+      "stat": [
+        113063,
+        1791276851981144587,
+        1791276851981144587
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/3d9325c4ef07b31cae4a2621.png",
+      "stat": [
+        133852,
+        1791276852061145711,
+        1791276852061145711
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/8065ac71e6b202851b842e7e.png",
+      "stat": [
+        107806,
+        1791276852201147679,
+        1791276852201147679
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/3893483000b9c332cd6e356d.png",
+      "stat": [
+        105560,
+        1791276852257148467,
+        1791276852257148467
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/b2541bc97d40cf84470ada8e.png",
+      "stat": [
+        108379,
+        1791276852289148917,
+        1791276852289148917
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/9bf606b9b62f52a341503141.png",
+      "stat": [
+        128660,
+        1791276853053159657,
+        1791276853053159657
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/02b4a82d5afe5a3bce619315.png",
+      "stat": [
+        120983,
+        1791276853085160107,
+        1791276853085160107
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/5df451a0e7f948c76bad4606.png",
+      "stat": [
+        111676,
+        1791276853133160781,
+        1791276853133160781
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/51a480cb0b41a05c849c060b.png",
+      "stat": [
+        118294,
+        1791276853149161006,
+        1791276853149161006
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/8994ff13ffb262feea677ef1.png",
+      "stat": [
+        112100,
+        1791276853421164830,
+        1791276853421164830
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/456d7294c5e4875cd5b7ccd2.png",
+      "stat": [
+        104232,
+        1791276853573166967,
+        1791276853573166967
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/443518210c1dc00b5cdd631a.png",
+      "stat": [
+        104327,
+        1791276853605167417,
+        1791276853605167417
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/fb143bb809e4deea1d21f9cd.png",
+      "stat": [
+        133395,
+        1791276853705169161,
+        1791276853705169161
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1a501785081e2b4c96cea69f.png",
+      "stat": [
+        113504,
+        1791276853721169441,
+        1791276853721169441
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/904ff6cfa9750304dbdd61f7.png",
+      "stat": [
+        137627,
+        1791276853797170775,
+        1791276853797170775
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/f69824c81a01a53dd906a3c0.png",
+      "stat": [
+        117117,
+        1791276853877172178,
+        1791276853877172178
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e592217c259e87f260f46486.png",
+      "stat": [
+        104523,
+        1791276854077175688,
+        1791276854077175688
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0a777d1dca049a4651ee5ac6.png",
+      "stat": [
+        88788,
+        1791276854093175968,
+        1791276854093175968
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/a397f774c808b54612565943.png",
+      "stat": [
+        109629,
+        1791276854309179758,
+        1791276854309179758
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/61671dbd10ed7623b05d9fb6.png",
+      "stat": [
+        113193,
+        1791276854537183759,
+        1791276854537183759
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/53a3d8563d0656092bd5b416.png",
+      "stat": [
+        114085,
+        1791276854881189795,
+        1791276854881189795
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/2935433204392bca365593cc.png",
+      "stat": [
+        130769,
+        1791276854929190636,
+        1791276854929190636
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/a025736992ad23152aa8e51b.png",
+      "stat": [
+        136115,
+        1791276854993191759,
+        1791276854993191759
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/79c1a3f62122b70ab0ca2930.png",
+      "stat": [
+        104678,
+        1791276855385198637,
+        1791276855385198637
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e02eeb58ea4c50d6c537f58e.png",
+      "stat": [
+        127160,
+        1791276855437199550,
+        1791276855437199550
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/82ae9e5e60917e246809247d.png",
+      "stat": [
+        99517,
+        1791276855521201023,
+        1791276855521201023
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/f38f7e64093000e343cd80e0.png",
+      "stat": [
+        123321,
+        1791276855553201585,
+        1791276855553201585
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1155315943c52ae44b32b7d8.png",
+      "stat": [
+        144322,
+        1791276855617202707,
+        1791276855617202707
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/8d3f96ed895523675da784b5.png",
+      "stat": [
+        129414,
+        1791276855949208533,
+        1791276855949208533
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0e7c76583ec84eb58b9305d6.png",
+      "stat": [
+        128141,
+        1791276856073210709,
+        1791276856073210709
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/d0681ed998d6254937ed3f3c.png",
+      "stat": [
+        120372,
+        1791276856089210989,
+        1791276856089210989
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1e70647fbf09c24ee144333c.png",
+      "stat": [
+        136875,
+        1791276856205213025,
+        1791276856205213025
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/06ce34438b34cd7f4820be30.png",
+      "stat": [
+        103855,
+        1791276856221213305,
+        1791276856221213305
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/74e32291482385e2c68b04ef.png",
+      "stat": [
+        128237,
+        1791276856253213866,
+        1791276856253213866
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/8a439956bc318c45ec1295de.png",
+      "stat": [
+        129830,
+        1791276856361215761,
+        1791276856361215761
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/02410ae67490f22fcdc5fddd.png",
+      "stat": [
+        110428,
+        1791276856517218499,
+        1791276856517218499
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/847fcfd15ffc15718c2bcfda.png",
+      "stat": [
+        98932,
+        1791276856605220043,
+        1791276856605220043
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/53b20fb87920d8524c061ada.png",
+      "stat": [
+        121511,
+        1791276856661221025,
+        1791276856661221025
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/4fe65fe17fa195ca19adf716.png",
+      "stat": [
+        112746,
+        1791276856789223271,
+        1791276856789223271
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/91bf2944f26b36c8af53f5ea.png",
+      "stat": [
+        72407,
+        1791276856901225236,
+        1791276856901225236
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/44d930f8c04fc6ebf2890df3.png",
+      "stat": [
+        83395,
+        1791276856937225867,
+        1791276856937225867
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/910059bdecf5bbb1c1e74aca.png",
+      "stat": [
+        107993,
+        1791276857073228254,
+        1791276857073228254
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e0fc9da1bd24e361b26cae5b.png",
+      "stat": [
+        94752,
+        1791276857089228535,
+        1791276857089228535
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1ccbba71fb5c9575be7130b0.png",
+      "stat": [
+        127538,
+        1791276857217230781,
+        1791276857217230781
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/faa931b00f72db6611d7ffbf.png",
+      "stat": [
+        126003,
+        1791276857345232434,
+        1791276857345232434
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1c4333b1d29811170bc89a2d.png",
+      "stat": [
+        146072,
+        1791276857509234549,
+        1791276857509234549
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/4e5bffcdfaa025cd29624424.png",
+      "stat": [
+        105698,
+        1791276857557235169,
+        1791276857557235169
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/563bea4479d818b1dccde981.png",
+      "stat": [
+        120762,
+        1791276857605235788,
+        1791276857605235788
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/2896f04ac2dbbe10dc16d173.png",
+      "stat": [
+        98876,
+        1791276857621235994,
+        1791276857621235994
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/53ec25a18ce8399574c601d8.png",
+      "stat": [
+        100068,
+        1791276857793238213,
+        1791276857793238213
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/3325b2b2667b7406e8026759.png",
+      "stat": [
+        104634,
+        1791276858033241307,
+        1791276858033241307
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/b0e67d938ac577251df5702b.png",
+      "stat": [
+        108879,
+        1791276858053241566,
+        1791276858053241566
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/fe7819a35fff235f2a96e9f1.png",
+      "stat": [
+        116141,
+        1791276858101242185,
+        1791276858101242185
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e96ee54934a908cc60646df7.png",
+      "stat": [
+        123049,
+        1791276858145242752,
+        1791276858145242752
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/d3fe442034b3972e34bea4a0.png",
+      "stat": [
+        100197,
+        1791276858297244713,
+        1791276858297244713
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e2a62406ebcb9e0a33ab5c18.png",
+      "stat": [
+        113679,
+        1791276858537247808,
+        1791276858537247808
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/666d7d544522d1edbe79bacb.png",
+      "stat": [
+        117389,
+        1791276858621248892,
+        1791276858621248892
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e51f32ab4c84ce67d184e188.png",
+      "stat": [
+        103092,
+        1791276858637249098,
+        1791276858637249098
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0cc442e763b0f3c236dd69d6.png",
+      "stat": [
+        124317,
+        1791276858813251367,
+        1791276858813251367
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/7601f0980090789773dec046.png",
+      "stat": [
+        117005,
+        1791276858925252813,
+        1791276858925252813
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/3226b21945fbbe94eed1a027.png",
+      "stat": [
+        105888,
+        1791276859033254205,
+        1791276859033254205
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/b825f4a6102ac33b42b7d4a6.png",
+      "stat": [
+        124800,
+        1791276859049254411,
+        1791276859049254411
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/f1bc9d211cf7ec6b001f1562.png",
+      "stat": [
+        119260,
+        1791276859085254876,
+        1791276859085254876
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0e2ba63cea3d128db578f95d.png",
+      "stat": [
+        97484,
+        1791276859117255289,
+        1791276859117255289
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/696e945b058e1411674b1803.png",
+      "stat": [
+        112070,
+        1791276859197256320,
+        1791276859197256320
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/a8fdd61cd34822bb3fdd634e.png",
+      "stat": [
+        105296,
+        1791276859277257352,
+        1791276859277257352
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/03b5f442b2ab48cf396e214e.png",
+      "stat": [
+        149179,
+        1791276859605261582,
+        1791276859605261582
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/7bb6ef1f77f7c083b1864e60.png",
+      "stat": [
+        118109,
+        1791276859637261995,
+        1791276859637261995
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/27b8cdf4f6f4bf29ccd9acec.png",
+      "stat": [
+        142217,
+        1791276860017266896,
+        1791276860017266896
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/53539f46feb57000ac0bdcfa.png",
+      "stat": [
+        108971,
+        1791276860137268445,
+        1791276860137268445
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/9ea6f4084c331f62bacc2e69.png",
+      "stat": [
+        139283,
+        1791276860325270870,
+        1791276860325270870
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/4b7a61170c03a9a2427963cc.png",
+      "stat": [
+        133483,
+        1791276860341271076,
+        1791276860341271076
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/7209f1c72463304f2beae225.png",
+      "stat": [
+        106326,
+        1791276860373271489,
+        1791276860373271489
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/473875322c85a987e27de6de.png",
+      "stat": [
+        72232,
+        1791276860549273758,
+        1791276860549273758
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/95eb5be6385b81630c125eb7.png",
+      "stat": [
+        113382,
+        1791276860573274067,
+        1791276860573274067
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c74076fc0c1c365fe9060494.png",
+      "stat": [
+        102892,
+        1791276860717276323,
+        1791276860717276323
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/ee31c094314de947ccb25089.png",
+      "stat": [
+        127257,
+        1791276860777277346,
+        1791276860777277346
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/3fa4e9d3a0f591134ee9d076.png",
+      "stat": [
+        102701,
+        1791276860977280758,
+        1791276860977280758
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/2fc0a5ee7de000d1c963b17b.png",
+      "stat": [
+        110288,
+        1791276861177284170,
+        1791276861177284170
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/6cf27955d2909e6ada549b2a.png",
+      "stat": [
+        93431,
+        1791276861305286354,
+        1791276861305286354
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/7cdb52c3b1bb4f5727ce632f.png",
+      "stat": [
+        120383,
+        1791276861369287445,
+        1791276861369287445
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1142f356c5ecbe5a6980fbf8.png",
+      "stat": [
+        130799,
+        1791276861397287923,
+        1791276861397287923
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/34d3a94659cf17057782a0c7.png",
+      "stat": [
+        112575,
+        1791276861429288468,
+        1791276861429288468
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/26ca229f9f1d5c6f454f7b67.png",
+      "stat": [
+        107637,
+        1791276861689292904,
+        1791276861689292904
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/5f2c8d6c7823cbcdedcba230.png",
+      "stat": [
+        125786,
+        1791276861777294405,
+        1791276861777294405
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/b9ab2faa418b29b11e2df566.png",
+      "stat": [
+        103785,
+        1791276861793294677,
+        1791276861793294677
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/e1b2007634edb2d2e038d283.png",
+      "stat": [
+        133045,
+        1791276861897296452,
+        1791276861897296452
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/ea5722aba6c68ea59d1a751c.png",
+      "stat": [
+        108709,
+        1791276861913296724,
+        1791276861913296724
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c5cfb93c5ca68b34d2d20602.png",
+      "stat": [
+        105506,
+        1791276861993298089,
+        1791276861993298089
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/cdb0ff99f366401acae73609.png",
+      "stat": [
+        99003,
+        1791276862009298363,
+        1791276862009298363
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/aeed855035da8f0405c9f88d.png",
+      "stat": [
+        98219,
+        1791276862041298908,
+        1791276862041298908
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/9229f3092743f0d08266c4a3.png",
+      "stat": [
+        106853,
+        1791276862161300955,
+        1791276862161300955
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/f49c5d68768561df2babbd7b.png",
+      "stat": [
+        103437,
+        1791276862373304571,
+        1791276862373304571
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c97d3892d6c3b8ef6261275f.png",
+      "stat": [
+        104990,
+        1791276862661309484,
+        1791276862661309484
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/c9d898cecdc6cf31a6813149.png",
+      "stat": [
+        90939,
+        1791276862725310577,
+        1791276862725310577
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/7c4d12e2d29d3f4bce7585a5.png",
+      "stat": [
+        130019,
+        1791276862801311873,
+        1791276862801311873
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/21fe2040db8a3df85a456a25.png",
+      "stat": [
+        91243,
+        1791276862817312146,
+        1791276862817312146
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/8963b3180e1a71c264619565.png",
+      "stat": [
+        113556,
+        1791276862833312418,
+        1791276862833312418
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/6be8c768b58ad613682bf9cc.png",
+      "stat": [
+        100922,
+        1791276863157317946,
+        1791276863157317946
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/1ec519c9f998cc110c38774d.png",
+      "stat": [
+        120245,
+        1791276863189318492,
+        1791276863189318492
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0d48a75f0e9b8793420d297a.png",
+      "stat": [
+        120164,
+        1791276863333320948,
+        1791276863333320948
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/0e6fca5d214bd33bc538f0bf.png",
+      "stat": [
+        101948,
+        1791276863405322177,
+        1791276863405322177
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/2b85268f832f1eeea1acd41f.png",
+      "stat": [
+        96574,
+        1791276863421322449,
+        1791276863421322449
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/early_blight/68ffa3b6e3d14c0442f58418.png",
+      "stat": [
+        107735,
+        1791276863525324224,
+        1791276863525324224
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f7f6bfd752085cd9803f1b2c.png",
+      "stat": [
+        157432,
+        1791276863725327635,
+        1791276863725327635
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/a1b2abb89f0b4996dd7b988f.png",
+      "stat": [
+        163618,
+        1791276863789328727,
+        1791276863789328727
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/de62dc4025a2cc96e81991a2.png",
+      "stat": [
+        163620,
+        1791276863849329750,
+        1791276863849329750
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/accb2fe1a47d8c8829c690e1.png",
+      "stat": [
+        167634,
+        1791276863965331729,
+        1791276863965331729
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/124227a9ca1e7594842a019b.png",
+      "stat": [
+        165320,
+        1791276864013332547,
+        1791276864013332547
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2dd3bbbbd31ab1b6e8388837.png",
+      "stat": [
+        159546,
+        1791276864149334868,
+        1791276864149334868
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6e8ece98b9d5f11091624e0e.png",
+      "stat": [
+        170502,
+        1791276864181335413,
+        1791276864181335413
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/a642b370bda2cff4671f9bb8.png",
+      "stat": [
+        168302,
+        1791276864261336778,
+        1791276864261336778
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/9b4d3b6d0bec43fa0300816c.png",
+      "stat": [
+        157113,
+        1791276864473340394,
+        1791276864473340394
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ba816bda7f19ea9e171ba4ca.png",
+      "stat": [
+        159302,
+        1791276864553341759,
+        1791276864553341759
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/30893eec57992e0d3cdb2838.png",
+      "stat": [
+        157199,
+        1791276864709344421,
+        1791276864709344421
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1f06584a31b527945b8bbb3d.png",
+      "stat": [
+        169843,
+        1791276864825346400,
+        1791276864825346400
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1c86117f27a1d47802dc0247.png",
+      "stat": [
+        169490,
+        1791276864889347491,
+        1791276864889347491
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/26551288ef2033b108a71441.png",
+      "stat": [
+        163759,
+        1791276864989349197,
+        1791276864989349197
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/d15fe0e25375543bb28be6d3.png",
+      "stat": [
+        160093,
+        1791276865269353796,
+        1791276865269353796
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/673f8e3c83fdba88d3b8c4f3.png",
+      "stat": [
+        163436,
+        1791276865457356125,
+        1791276865457356125
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/cc40543ed5f2e5c110516a4c.png",
+      "stat": [
+        165109,
+        1791276865533357068,
+        1791276865533357068
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2a9a1f9bd3367ed995a01587.png",
+      "stat": [
+        162462,
+        1791276865673358803,
+        1791276865673358803
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1d9a0a44770215b9f5565f47.png",
+      "stat": [
+        156201,
+        1791276865885361429,
+        1791276865885361429
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/8b072cfb2b6d3c36a723c050.png",
+      "stat": [
+        142024,
+        1791276865901361628,
+        1791276865901361628
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/76c0f9ef1de61c705f9918b0.png",
+      "stat": [
+        160191,
+        1791276866025363163,
+        1791276866025363163
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/813e74240a0f5eec573af5d7.png",
+      "stat": [
+        157972,
+        1791276866161364849,
+        1791276866161364849
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/b1b4cc71d310606fb1265ddc.png",
+      "stat": [
+        166055,
+        1791276866377367526,
+        1791276866377367526
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/a9c97eff48b1388c81895ea3.png",
+      "stat": [
+        163371,
+        1791276866561369806,
+        1791276866561369806
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/bf2e8404de32933d70c8034b.png",
+      "stat": [
+        165332,
+        1791276866609370399,
+        1791276866609370399
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/05e34803f9d268ff59694941.png",
+      "stat": [
+        161541,
+        1791276866689371391,
+        1791276866689371391
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/e05b5e7a7c904c02c3f5bd6f.png",
+      "stat": [
+        167452,
+        1791276866981375009,
+        1791276866981375009
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6688d6f637c9e29b2db8ef23.png",
+      "stat": [
+        161612,
+        1791276866993375158,
+        1791276866993375158
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/37d5b3c7bccd54d911694a17.png",
+      "stat": [
+        152012,
+        1791276867061376001,
+        1791276867061376001
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/48e0d8e0bd72083457709248.png",
+      "stat": [
+        157995,
+        1791276867109376595,
+        1791276867109376595
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/b3d2e6e2d4f3b0b3efa278b3.png",
+      "stat": [
+        163943,
+        1791276867265378528,
+        1791276867265378528
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6f51cc19e32863e244f83257.png",
+      "stat": [
+        160484,
+        1791276867361379718,
+        1791276867361379718
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ccb1819ad64e59e75b221f34.png",
+      "stat": [
+        166147,
+        1791276867393380114,
+        1791276867393380114
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6e442a343fd7dfb7ac0299e6.png",
+      "stat": [
+        155839,
+        1791276867485381253,
+        1791276867485381253
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/59c38f27e0032247f1788500.png",
+      "stat": [
+        169031,
+        1791276867517381650,
+        1791276867517381650
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/b975388b63dadf9821422d86.png",
+      "stat": [
+        162281,
+        1791276867685383732,
+        1791276867685383732
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/7bfd178bed5b3ba88a7b363b.png",
+      "stat": [
+        165848,
+        1791276867701383930,
+        1791276867701383930
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/8b5270f0ea4fb825c5efa958.png",
+      "stat": [
+        157424,
+        1791276867717384129,
+        1791276867717384129
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ef725e2550772973ed9e2e4e.png",
+      "stat": [
+        162951,
+        1791276867793385087,
+        1791276867793385087
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/62216bf5385f6f22cb703303.png",
+      "stat": [
+        158751,
+        1791276867901386888,
+        1791276867901386888
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/4b9b58d4a70ff51b7107a18a.png",
+      "stat": [
+        160447,
+        1791276867937387488,
+        1791276867937387488
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c3bf286efa1de6a22cada4cc.png",
+      "stat": [
+        163474,
+        1791276868093390090,
+        1791276868093390090
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/7ad11f38c4f55391f21781f6.png",
+      "stat": [
+        165212,
+        1791276868357394493,
+        1791276868357394493
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1ffd81e8621a31690df32eb7.png",
+      "stat": [
+        162105,
+        1791276868405395293,
+        1791276868405395293
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f9865cbf8201c5f62668edba.png",
+      "stat": [
+        165761,
+        1791276868457396160,
+        1791276868457396160
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/eec36cd5cb7b7df9e9b18996.png",
+      "stat": [
+        158676,
+        1791276868489396694,
+        1791276868489396694
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/b093da8d32e40a1f89f95506.png",
+      "stat": [
+        158293,
+        1791276868725400629,
+        1791276868725400629
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ea9e464edf7f152412e1c9e0.png",
+      "stat": [
+        169793,
+        1791276868741400896,
+        1791276868741400896
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/9798987835920596e95e8687.png",
+      "stat": [
+        161245,
+        1791276868757401163,
+        1791276868757401163
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/d328780dba124ed2958c090b.png",
+      "stat": [
+        164076,
+        1791276868945404298,
+        1791276868945404298
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/78da794f1e84919238879017.png",
+      "stat": [
+        170118,
+        1791276869073406432,
+        1791276869073406432
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ba29f338716abb63959fc60a.png",
+      "stat": [
+        161461,
+        1791276869421412236,
+        1791276869421412236
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/3233dd2241a79408fc76575d.png",
+      "stat": [
+        151660,
+        1791276869585414971,
+        1791276869585414971
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/031466e50952bea790796983.png",
+      "stat": [
+        139878,
+        1791276869629415704,
+        1791276869629415704
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/a6442f155d8dbd90706de3f6.png",
+      "stat": [
+        163574,
+        1791276869821418906,
+        1791276869821418906
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/4e3d83965c3c2100cbfd4b69.png",
+      "stat": [
+        162533,
+        1791276869849419373,
+        1791276869849419373
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/5b6e18290c2a796f121d1af7.png",
+      "stat": [
+        171735,
+        1791276870165424643,
+        1791276870165424643
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2ee2baef847be2e144727ca4.png",
+      "stat": [
+        156209,
+        1791276870409428712,
+        1791276870409428712
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c015c80828624ceed90abfa1.png",
+      "stat": [
+        165929,
+        1791276870793435115,
+        1791276870793435115
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/81a07de7c1acdfbc9f0fe558.png",
+      "stat": [
+        155759,
+        1791276871109440385,
+        1791276871109440385
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2059de044673a94cc4da4541.png",
+      "stat": [
+        160387,
+        1791276871141440919,
+        1791276871141440919
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/bf5b10e3ead8a67275a52100.png",
+      "stat": [
+        163925,
+        1791276871157441186,
+        1791276871157441186
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2c6fcb9fc8b0d11303c82ec5.png",
+      "stat": [
+        166419,
+        1791276871517447189,
+        1791276871517447189
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/85ba8d26c09a705cc17f3511.png",
+      "stat": [
+        168492,
+        1791276871713450457,
+        1791276871713450457
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/d25d81c7767dc5dd0d6be22c.png",
+      "stat": [
+        166917,
+        1791276871953454459,
+        1791276871953454459
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/477db544478f7e900ab06780.png",
+      "stat": [
+        167749,
+        1791276871969454726,
+        1791276871969454726
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/bcaf50d9dc92a8feef3474da.png",
+      "stat": [
+        164046,
+        1791276872065456327,
+        1791276872065456327
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f53941ac8b8569dcf231c61e.png",
+      "stat": [
+        150485,
+        1791276872081456594,
+        1791276872081456594
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/127972c01f7ac7ba9ca4a87d.png",
+      "stat": [
+        160925,
+        1791276872129457394,
+        1791276872129457394
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/503064eef7fad420d4cfda60.png",
+      "stat": [
+        163977,
+        1791276872193458462,
+        1791276872193458462
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/01241f4788ff64dfdcaeffc1.png",
+      "stat": [
+        149924,
+        1791276872285459997,
+        1791276872285459997
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1de90d489190f98ee3385b86.png",
+      "stat": [
+        164756,
+        1791276872301460263,
+        1791276872301460263
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/be16fddd27c8911d73e3abe7.png",
+      "stat": [
+        158105,
+        1791276872317460530,
+        1791276872317460530
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/976d4c1b140d7f6536b42a6b.png",
+      "stat": [
+        159911,
+        1791276872349461063,
+        1791276872349461063
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/be103ef8754d94561c294124.png",
+      "stat": [
+        169230,
+        1791276872365461330,
+        1791276872365461330
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/46e86f9172fe88871de4d9fc.png",
+      "stat": [
+        170339,
+        1791276872393461797,
+        1791276872393461797
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/5268653fe5d3e92fd6e2ba61.png",
+      "stat": [
+        157398,
+        1791276872609465399,
+        1791276872609465399
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/3977daec968ac9d0494de70d.png",
+      "stat": [
+        162982,
+        1791276872669466400,
+        1791276872669466400
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/0dbca91d441366e65cd9128f.png",
+      "stat": [
+        161213,
+        1791276872853469468,
+        1791276872853469468
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c8e44ff2d94d36c29ae9714c.png",
+      "stat": [
+        168289,
+        1791276873041472603,
+        1791276873041472603
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/9bf4c2a0957eb7fda9ce4223.png",
+      "stat": [
+        163713,
+        1791276873117473871,
+        1791276873117473871
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/254120c6fade7340692d8c92.png",
+      "stat": [
+        167537,
+        1791276873145474337,
+        1791276873145474337
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/08ca17ab66c6420433663307.png",
+      "stat": [
+        165342,
+        1791276873189475071,
+        1791276873189475071
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/046fa4c09a21c9474f94234a.png",
+      "stat": [
+        169798,
+        1791276873221475605,
+        1791276873221475605
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/b48f7384c32fc94a03192723.png",
+      "stat": [
+        164557,
+        1791276873233475805,
+        1791276873233475805
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c13311eb04c495f3357bc3d3.png",
+      "stat": [
+        172714,
+        1791276873249476058,
+        1791276873249476058
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/5f62b2f18f710f28767e9fa1.png",
+      "stat": [
+        162739,
+        1791276873329477121,
+        1791276873329477121
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f935a37d914bfc6689bb2298.png",
+      "stat": [
+        155590,
+        1791276873357477493,
+        1791276873357477493
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/7787d7ab74713de9df03d1d8.png",
+      "stat": [
+        168403,
+        1791276873449478716,
+        1791276873449478716
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c83972462704b41312b2da7f.png",
+      "stat": [
+        163555,
+        1791276873529479778,
+        1791276873529479778
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/bf8dcecc89571021fd7d7144.png",
+      "stat": [
+        158134,
+        1791276873661481532,
+        1791276873661481532
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/fa7e2aa925abe9a1b7badbf3.png",
+      "stat": [
+        164153,
+        1791276873677481745,
+        1791276873677481745
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/b4decc4e171ded31c110aaff.png",
+      "stat": [
+        165590,
+        1791276873705482117,
+        1791276873705482117
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2c83915ad720addbb398285c.png",
+      "stat": [
+        167737,
+        1791276873961485518,
+        1791276873961485518
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ac6da9df01a2a14c240262fa.png",
+      "stat": [
+        165625,
+        1791276874185488495,
+        1791276874185488495
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/9abc64ad9b094aaf9d7588d5.png",
+      "stat": [
+        165407,
+        1791276874245489292,
+        1791276874245489292
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/72ef8d245ffec028789a87bb.png",
+      "stat": [
+        158725,
+        1791276874649494660,
+        1791276874649494660
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/41e3314144a7e8fa6436e5f8.png",
+      "stat": [
+        152585,
+        1791276874681495085,
+        1791276874681495085
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/40c4afa1a3af37292d20955e.png",
+      "stat": [
+        159806,
+        1791276874709495457,
+        1791276874709495457
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6da939f1aece22ddc8c1ab6f.png",
+      "stat": [
+        152255,
+        1791276874801496680,
+        1791276874801496680
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/3a814fd91dd06bd1c8b33c51.png",
+      "stat": [
+        167463,
+        1791276874989499177,
+        1791276874989499177
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/80823aeda0ab0d5e15c8b4cc.png",
+      "stat": [
+        158574,
+        1791276875005499390,
+        1791276875005499390
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/84085b9259329395a959e748.png",
+      "stat": [
+        162338,
+        1791276875033499763,
+        1791276875033499763
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/a9910450ae18809166bcba02.png",
+      "stat": [
+        166954,
+        1791276875081500400,
+        1791276875081500400
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/4895aef36c98410b4fa0899f.png",
+      "stat": [
+        154390,
+        1791276875125500985,
+        1791276875125500985
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/742c06c7c9d7d842c924a8d3.png",
+      "stat": [
+        158509,
+        1791276875293503216,
+        1791276875293503216
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/874337a5b9c1207edee1ce03.png",
+      "stat": [
+        159792,
+        1791276875309503430,
+        1791276875309503430
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/fddd0b2c529d22b6c142dd8b.png",
+      "stat": [
+        169930,
+        1791276875685508425,
+        1791276875685508425
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/865e47e853444c90bdfd0e91.png",
+      "stat": [
+        163929,
+        1791276875773509595,
+        1791276875773509595
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/3bf095d240130e01a9abd9ac.png",
+      "stat": [
+        167039,
+        1791276875837510445,
+        1791276875837510445
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c561ba3b4c11497b483e9c5f.png",
+      "stat": [
+        156339,
+        1791276875853510658,
+        1791276875853510658
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/c3612ff95c595f0b8570f3a0.png",
+      "stat": [
+        162244,
+        1791276875885511083,
+        1791276875885511083
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f9fb2ca0b6b982022e80c008.png",
+      "stat": [
+        163291,
+        1791276876109514059,
+        1791276876109514059
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1e0bc66f797ac66d7a545cba.png",
+      "stat": [
+        163770,
+        1791276876337517089,
+        1791276876337517089
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6d40b1494254730bc891825b.png",
+      "stat": [
+        169047,
+        1791276876369517514,
+        1791276876369517514
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/902098cd7389d1152bab3626.png",
+      "stat": [
+        169930,
+        1791276876441518502,
+        1791276876441518502
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6ba994a6349dc8d345b61fb9.png",
+      "stat": [
+        164886,
+        1791276876473519027,
+        1791276876473519027
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/143dcaae1f9d1514ee1835a2.png",
+      "stat": [
+        158370,
+        1791276876517519748,
+        1791276876517519748
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/136783d5e589d3dece329edf.png",
+      "stat": [
+        158124,
+        1791276876549520273,
+        1791276876549520273
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/e3d84a4ea598481ed66c7f06.png",
+      "stat": [
+        155241,
+        1791276876577520732,
+        1791276876577520732
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/fba4abf06cec43bbf69db521.png",
+      "stat": [
+        167502,
+        1791276876593520995,
+        1791276876593520995
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/68931e8983b31e695ff8eb5b.png",
+      "stat": [
+        154840,
+        1791276876721523093,
+        1791276876721523093
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/bf35ad08478134a44ffe326b.png",
+      "stat": [
+        159385,
+        1791276876853525258,
+        1791276876853525258
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/3120e602d35d9bfa30ffc279.png",
+      "stat": [
+        161876,
+        1791276877025528078,
+        1791276877025528078
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f44b8e98d98a345ecc3cb1ae.png",
+      "stat": [
+        160884,
+        1791276877281532277,
+        1791276877281532277
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/2ad3712962453f4e475e77da.png",
+      "stat": [
+        161196,
+        1791276877297532539,
+        1791276877297532539
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/541dfc76dad2fd55f6f16905.png",
+      "stat": [
+        168113,
+        1791276877329533064,
+        1791276877329533064
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/9f9d42b866d83a46a4f6a164.png",
+      "stat": [
+        151553,
+        1791276877377533851,
+        1791276877377533851
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f61e3b4f9113d9b9992b708e.png",
+      "stat": [
+        164773,
+        1791276877469535359,
+        1791276877469535359
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/dbaba109dc6c55d87b297669.png",
+      "stat": [
+        159773,
+        1791276877485535622,
+        1791276877485535622
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/e34679390b8657e87889df7c.png",
+      "stat": [
+        163725,
+        1791276877641538180,
+        1791276877641538180
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/9a2577a94e9b526827bb05a9.png",
+      "stat": [
+        167000,
+        1791276877657538443,
+        1791276877657538443
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/6e62b9359d4564cc89bc04c3.png",
+      "stat": [
+        168524,
+        1791276877689538967,
+        1791276877689538967
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f872a4ea2d5726d94e6a3839.png",
+      "stat": [
+        156854,
+        1791276877793540672,
+        1791276877793540672
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f6c1e7bf0aeffac79d611250.png",
+      "stat": [
+        167448,
+        1791276878009544215,
+        1791276878009544215
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/844da5b16d0ffcf71b411777.png",
+      "stat": [
+        168570,
+        1791276878117545986,
+        1791276878117545986
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/0b3db77c33041583d1c614d0.png",
+      "stat": [
+        161616,
+        1791276878133546248,
+        1791276878133546248
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/1eb0df9a1aef41ab6c1d6b04.png",
+      "stat": [
+        156169,
+        1791276878161546707,
+        1791276878161546707
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/39e359ae575af1dd2d9c4bd0.png",
+      "stat": [
+        159342,
+        1791276878177546969,
+        1791276878177546969
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f8cf435c180450c05c3ecf48.png",
+      "stat": [
+        157869,
+        1791276878237547953,
+        1791276878237547953
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/7ee21e0d87be6175d8f4988d.png",
+      "stat": [
+        157545,
+        1791276878361549987,
+        1791276878361549987
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/555756e82197b9dcbdde6b13.png",
+      "stat": [
+        166075,
+        1791276878481551955,
+        1791276878481551955
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/d4c06434eca4277fd1b109a8.png",
+      "stat": [
+        162341,
+        1791276878529552742,
+        1791276878529552742
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/f3285b50912357bdfb8bcf1a.png",
+      "stat": [
+        166335,
+        1791276878561553266,
+        1791276878561553266
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/730baa55be98e254ece14552.png",
+      "stat": [
+        154530,
+        1791276878589553726,
+        1791276878589553726
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/ccd98ee82023f4b6f32597a5.png",
+      "stat": [
+        169221,
+        1791276878669555038,
+        1791276878669555038
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/3eb488afe0ef55f36c8ce087.png",
+      "stat": [
+        155061,
+        1791276878777556809,
+        1791276878777556809
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/healthy/27dbb5de175af660c063c663.png",
+      "stat": [
+        158459,
+        1791276879141562778,
+        1791276879141562778
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/b2ac6ef2dc08a64e717d1210.png",
+      "stat": [
+        94314,
+        1791276879265564811,
+        1791276879265564811
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c095389a0ffaf56f46c7fa5f.png",
+      "stat": [
+        119031,
+        1791276879445567763,
+        1791276879445567763
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/84a4dfdb14e1062e839f93b6.png",
+      "stat": [
+        139013,
+        1791276879461568026,
+        1791276879461568026
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/707ae7afdee357429ff39e87.png",
+      "stat": [
+        117124,
+        1791276879505568747,
+        1791276879505568747
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/ff433fc4ca5e92dcaaf839f3.png",
+      "stat": [
+        107428,
+        1791276879565569731,
+        1791276879565569731
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/1d96668c84018c31a3f3322c.png",
+      "stat": [
+        124181,
+        1791276879741572617,
+        1791276879741572617
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/2adfa133cd039b1f00998ace.png",
+      "stat": [
+        114161,
+        1791276879833574125,
+        1791276879833574125
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/674162824739ade8f84b2cdb.png",
+      "stat": [
+        111673,
+        1791276879909575372,
+        1791276879909575372
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/f2632910ca344eb5a77565b9.png",
+      "stat": [
+        136372,
+        1791276880085578258,
+        1791276880085578258
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/3aee12640719fd7a1f4d7c7d.png",
+      "stat": [
+        133012,
+        1791276880189579963,
+        1791276880189579963
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/bdf9cb9ff6bb0440c6197dfc.png",
+      "stat": [
+        95702,
+        1791276880301581800,
+        1791276880301581800
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c9ae74bb72dd1da19f48dcf5.png",
+      "stat": [
+        132452,
+        1791276880313581997,
+        1791276880313581997
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/9ccd22a78205fb70a4093fb5.png",
+      "stat": [
+        129429,
+        1791276880361582784,
+        1791276880361582784
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/5f8e9582603255d809a24010.png",
+      "stat": [
+        138658,
+        1791276880373582981,
+        1791276880373582981
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/975e9a1b90b439681f3bcc72.png",
+      "stat": [
+        138040,
+        1791276880461584424,
+        1791276880461584424
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/46115ddde279d44d15f0108a.png",
+      "stat": [
+        109191,
+        1791276880733588885,
+        1791276880733588885
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/0bb2d1409f3b7de2737d07ad.png",
+      "stat": [
+        121334,
+        1791276880765589409,
+        1791276880765589409
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/d11a669dd14c243a1d5396dd.png",
+      "stat": [
+        97778,
+        1791276880781589672,
+        1791276880781589672
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a91db2593807b54e7fd44cb1.png",
+      "stat": [
+        137732,
+        1791276880793589869,
+        1791276880793589869
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/14bff025c17911b94d3e5463.png",
+      "stat": [
+        118835,
+        1791276880973592820,
+        1791276880973592820
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/efb8a849e9d578991a679253.png",
+      "stat": [
+        122399,
+        1791276881133595443,
+        1791276881133595443
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/e4754f57af001c43b04e7805.png",
+      "stat": [
+        121058,
+        1791276881177596166,
+        1791276881177596166
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/8b9aa78c392f6af65eb6213d.png",
+      "stat": [
+        129749,
+        1791276881237597149,
+        1791276881237597149
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/72e861e91d6ee172fc84a02f.png",
+      "stat": [
+        135399,
+        1791276881329598621,
+        1791276881329598621
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6c06b7f5c0213656a5f08d6a.png",
+      "stat": [
+        139740,
+        1791276881389599574,
+        1791276881389599574
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/12204c80122ade7e4dc5c623.png",
+      "stat": [
+        107652,
+        1791276881673604085,
+        1791276881673604085
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/2a8bc560967a973d9571415b.png",
+      "stat": [
+        102211,
+        1791276881705604593,
+        1791276881705604593
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/3d251ded37b16250fc580ad0.png",
+      "stat": [
+        126688,
+        1791276882033609802,
+        1791276882033609802
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/fa65b31fa0c134bb903c2fa8.png",
+      "stat": [
+        149319,
+        1791276882285613804,
+        1791276882285613804
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/4b62e8f1137b7930187228ce.png",
+      "stat": [
+        137280,
+        1791276882345614757,
+        1791276882345614757
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/982fac6853cb46d2d7f4c505.png",
+      "stat": [
+        123254,
+        1791276882405615710,
+        1791276882405615710
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6047bb7348436bfe068fb37f.png",
+      "stat": [
+        139149,
+        1791276882433616154,
+        1791276882433616154
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/62259d120eef90460748e4f8.png",
+      "stat": [
+        100845,
+        1791276882481616916,
+        1791276882481616916
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/cae3edf1bb5c423e4c7ccb22.png",
+      "stat": [
+        149231,
+        1791276882525617615,
+        1791276882525617615
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/4dc88c423fd9da7a5ba716cd.png",
+      "stat": [
+        146045,
+        1791276882569618314,
+        1791276882569618314
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6a6cfdb8f98cfcc2fce9ff8a.png",
+      "stat": [
+        120061,
+        1791276882689620221,
+        1791276882689620221
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/7563b432e11b8be854c25e2c.png",
+      "stat": [
+        120781,
+        1791276882749621174,
+        1791276882749621174
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/e7e65f38a2cb968423484ccf.png",
+      "stat": [
+        142639,
+        1791276882821622317,
+        1791276882821622317
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c9f9cb115334f794368175c8.png",
+      "stat": [
+        118278,
+        1791276882893623460,
+        1791276882893623460
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a19fb559cc785ce6109b1ca8.png",
+      "stat": [
+        127844,
+        1791276882913623777,
+        1791276882913623777
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/005eff43d5f02508a9b1ee59.png",
+      "stat": [
+        129552,
+        1791276883281629622,
+        1791276883281629622
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/eb121d7f979b947d6e6b504d.png",
+      "stat": [
+        130445,
+        1791276883405631592,
+        1791276883405631592
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6df126f342da2ef072a2548b.png",
+      "stat": [
+        103191,
+        1791276883521633434,
+        1791276883521633434
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/472f6895ae338bb97f7896d2.png",
+      "stat": [
+        110491,
+        1791276883701636293,
+        1791276883701636293
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6b60dd1422922e244c2f2147.png",
+      "stat": [
+        123662,
+        1791276883885639215,
+        1791276883885639215
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/af9533e1814be309c43d5eb0.png",
+      "stat": [
+        105480,
+        1791276883929639914,
+        1791276883929639914
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/1ff97914be14141055e3f2d4.png",
+      "stat": [
+        139592,
+        1791276883941640105,
+        1791276883941640105
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/5be80adfd2ce8bc9dc742f0e.png",
+      "stat": [
+        103607,
+        1791276884209644361,
+        1791276884209644361
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/502efbb981acabce910b10f1.png",
+      "stat": [
+        99544,
+        1791276884229644678,
+        1791276884229644678
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a31395daab53806ccdbbeee3.png",
+      "stat": [
+        112320,
+        1791276884389647220,
+        1791276884389647220
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/d593ad73a2de269732c5330a.png",
+      "stat": [
+        139160,
+        1791276884437647982,
+        1791276884437647982
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c53b23d8e5fcb2aedf91e970.png",
+      "stat": [
+        112758,
+        1791276884525649380,
+        1791276884525649380
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a089bd00b851229db9264de7.png",
+      "stat": [
+        137815,
+        1791276884569650078,
+        1791276884569650078
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/31b6772f4442b03557743b91.png",
+      "stat": [
+        126124,
+        1791276884721652493,
+        1791276884721652493
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/93711131447b5863b720e3bd.png",
+      "stat": [
+        133556,
+        1791276884809653890,
+        1791276884809653890
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c58af7e639ccd689bc1eaec9.png",
+      "stat": [
+        135320,
+        1791276884869654843,
+        1791276884869654843
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/14e39a77dc0baaf93cadba7d.png",
+      "stat": [
+        147085,
+        1791276884925655732,
+        1791276884925655732
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/2921f3e4207526d8a4cd10b7.png",
+      "stat": [
+        111085,
+        1791276885485664625,
+        1791276885485664625
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/3dad4f7947168bc47a89cebc.png",
+      "stat": [
+        126994,
+        1791276885529665324,
+        1791276885529665324
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/f6f49b1ea4d2904c8e073e9b.png",
+      "stat": [
+        115163,
+        1791276885641667103,
+        1791276885641667103
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6e32321a0647261f62f50f32.png",
+      "stat": [
+        136766,
+        1791276885685667802,
+        1791276885685667802
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/0fc6112895553ea0f11190ee.png",
+      "stat": [
+        151195,
+        1791276885713668247,
+        1791276885713668247
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/11447a2508df72782aa94abf.png",
+      "stat": [
+        117734,
+        1791276885789669454,
+        1791276885789669454
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/88a36d17c08754731a78d7aa.png",
+      "stat": [
+        106834,
+        1791276885817669898,
+        1791276885817669898
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/977eb12b52dcc750bbe13abd.png",
+      "stat": [
+        131449,
+        1791276886125674790,
+        1791276886125674790
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/d2ad1c2d6fb1e2a091b9b9fd.png",
+      "stat": [
+        136506,
+        1791276886169675489,
+        1791276886169675489
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/2861fcf4f97dfa83f8dc9518.png",
+      "stat": [
+        102987,
+        1791276886337678157,
+        1791276886337678157
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/ba5afdf34e19e00c4d711bc3.png",
+      "stat": [
+        126387,
+        1791276886369678665,
+        1791276886369678665
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/9dab9a2e87bc72c2b9c9da20.png",
+      "stat": [
+        88959,
+        1791276886565681778,
+        1791276886565681778
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/21ab0e658db854860ef6b6c8.png",
+      "stat": [
+        123614,
+        1791276886813685716,
+        1791276886813685716
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/dc096155846c465139c686e5.png",
+      "stat": [
+        140988,
+        1791276886921687432,
+        1791276886921687432
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/8efd146b0df510848bec51c4.png",
+      "stat": [
+        137381,
+        1791276886933687622,
+        1791276886933687622
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/7d8852931d2cd66ea46902f4.png",
+      "stat": [
+        130968,
+        1791276886969688194,
+        1791276886969688194
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/31dfd724116943404499d02b.png",
+      "stat": [
+        140877,
+        1791276887177691498,
+        1791276887177691498
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/eba31f526f2d03bca7cad4e6.png",
+      "stat": [
+        135731,
+        1791276887325693848,
+        1791276887325693848
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6191062bfabf89304a951997.png",
+      "stat": [
+        139522,
+        1791276887373694611,
+        1791276887373694611
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/b8d5c8340fa498b77da34e81.png",
+      "stat": [
+        105965,
+        1791276887401695055,
+        1791276887401695055
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/1c826f91c70932d7b713922e.png",
+      "stat": [
+        109669,
+        1791276887461696008,
+        1791276887461696008
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/b933846ab48e50b8ae562fd2.png",
+      "stat": [
+        145100,
+        1791276887669699312,
+        1791276887669699312
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/97861c90f2bf5532d92bd93c.png",
+      "stat": [
+        144788,
+        1791276887773700963,
+        1791276887773700963
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/dfa0e3f52a21f4343084092c.png",
+      "stat": [
+        124257,
+        1791276888165707189,
+        1791276888165707189
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c3ebd4aa5158bd88be1a1a3c.png",
+      "stat": [
+        137066,
+        1791276888273708904,
+        1791276888273708904
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/d27d23374b12fa65290e545b.png",
+      "stat": [
+        131437,
+        1791276888285709094,
+        1791276888285709094
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/44343a56dfdd131b1735ea83.png",
+      "stat": [
+        108486,
+        1791276888393710810,
+        1791276888393710810
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a77c585f7de15400dcdba438.png",
+      "stat": [
+        119529,
+        1791276888501712525,
+        1791276888501712525
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/5d1e32fa609cf35baae8f672.png",
+      "stat": [
+        124358,
+        1791276888693715574,
+        1791276888693715574
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/4059062798673f0287c737b2.png",
+      "stat": [
+        125325,
+        1791276889077721673,
+        1791276889077721673
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/45cf329a161c522842e76aff.png",
+      "stat": [
+        111062,
+        1791276889093721927,
+        1791276889093721927
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6d755f971cc4799768ea9246.png",
+      "stat": [
+        146335,
+        1791276889121722372,
+        1791276889121722372
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6b673e4bf52f799435b687c0.png",
+      "stat": [
+        115458,
+        1791276889141722689,
+        1791276889141722689
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/e120d77496b7e8bf4cf5c46d.png",
+      "stat": [
+        111429,
+        1791276889189723452,
+        1791276889189723452
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/809898bc694b697c8b253706.png",
+      "stat": [
+        137688,
+        1791276889441727178,
+        1791276889441727178
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c3b058aff7e1cbe6ef20d211.png",
+      "stat": [
+        125757,
+        1791276889593729343,
+        1791276889593729343
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/014886b08b8eed7ad8fe7a21.png",
+      "stat": [
+        143011,
+        1791276889733731338,
+        1791276889733731338
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/0f1c449db07c81bb91058416.png",
+      "stat": [
+        120974,
+        1791276889789732135,
+        1791276889789732135
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/22816537b2da8ec80f3e90ff.png",
+      "stat": [
+        135665,
+        1791276889821732591,
+        1791276889821732591
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/878760887ccbbbd30334a9bb.png",
+      "stat": [
+        120417,
+        1791276889885733502,
+        1791276889885733502
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/00fdc99ae532cd0f4a93b334.png",
+      "stat": [
+        115303,
+        1791276889965734643,
+        1791276889965734643
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/edee0e86493d7261e50a1a0a.png",
+      "stat": [
+        134007,
+        1791276890037735668,
+        1791276890037735668
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/999a271e53c466baa6f34ffd.png",
+      "stat": [
+        131540,
+        1791276890053735896,
+        1791276890053735896
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/cc506f763bdaef3a9f06ebd1.png",
+      "stat": [
+        134435,
+        1791276890265738916,
+        1791276890265738916
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/6472d6dc05e9db99ebd2436d.png",
+      "stat": [
+        104312,
+        1791276890285739202,
+        1791276890285739202
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a874a375e3156ce1c9eb32e7.png",
+      "stat": [
+        101754,
+        1791276890333739885,
+        1791276890333739885
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/44ca5265e6a4e6eee10762ad.png",
+      "stat": [
+        122075,
+        1791276890553743019,
+        1791276890553743019
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/9cf9473accfec1947dc5ef32.png",
+      "stat": [
+        97279,
+        1791276890709745241,
+        1791276890709745241
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/991e3556c51eea64fefc51a3.png",
+      "stat": [
+        121346,
+        1791276890761745982,
+        1791276890761745982
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/1cc13636b678ac000ca40545.png",
+      "stat": [
+        130332,
+        1791276891333754131,
+        1791276891333754131
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/e6d102709695291dd085e42c.png",
+      "stat": [
+        133968,
+        1791276891581757663,
+        1791276891581757663
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/7591fbca743bc90a19e1b744.png",
+      "stat": [
+        101535,
+        1791276891613758119,
+        1791276891613758119
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/86386ae0ecd9dcb242a77bc3.png",
+      "stat": [
+        121226,
+        1791276891869761766,
+        1791276891869761766
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/4535da679e67c3ae16ef2d41.png",
+      "stat": [
+        135645,
+        1791276891917762450,
+        1791276891917762450
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/27fab8dc494274b505b03ae4.png",
+      "stat": [
+        113721,
+        1791276891929762621,
+        1791276891929762621
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/0147fd0bbe2000e237630565.png",
+      "stat": [
+        140873,
+        1791276891973763248,
+        1791276891973763248
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/a418cb0622df8a889a00a53b.png",
+      "stat": [
+        129833,
+        1791276892085764843,
+        1791276892085764843
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/5e409482a680a3a646218093.png",
+      "stat": [
+        122795,
+        1791276892197766439,
+        1791276892197766439
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/c19074e4dd615d54aca2d7b3.png",
+      "stat": [
+        128806,
+        1791276892213766666,
+        1791276892213766666
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/2232953f32ba915133182e63.png",
+      "stat": [
+        137381,
+        1791276892277767578,
+        1791276892277767578
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/e454fdf86b8b3397560e0d16.png",
+      "stat": [
+        137751,
+        1791276892369768889,
+        1791276892369768889
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/b40a45ae953af3f84e841ded.png",
+      "stat": [
+        110579,
+        1791276892389769174,
+        1791276892389769174
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/3123784dc94c08562ae06588.png",
+      "stat": [
+        130318,
+        1791276892421769630,
+        1791276892421769630
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/100259fe2babb13595ec809a.png",
+      "stat": [
+        118148,
+        1791276892505770827,
+        1791276892505770827
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/7a7918372f617edf036771a8.png",
+      "stat": [
+        120123,
+        1791276892633772650,
+        1791276892633772650
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/bb60abaf0f894082e0ce8c5c.png",
+      "stat": [
+        131467,
+        1791276892649772878,
+        1791276892649772878
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/95d6053f81fdb1279851e6b7.png",
+      "stat": [
+        127415,
+        1791276892681773333,
+        1791276892681773333
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/22f20da1adb0c20f069ec561.png",
+      "stat": [
+        134952,
+        1791276892825775384,
+        1791276892825775384
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/2db86dc2b3892ac70627d479.png",
+      "stat": [
+        111441,
+        1791276892841775613,
+        1791276892841775613
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/9fb87dadf1dedec0c2b1bc5c.png",
+      "stat": [
+        144903,
+        1791276893073778918,
+        1791276893073778918
+      ]
+    },
+    {
+      "path": "data/processed/test_locked/late_blight/b4712ddd142bd663849b9f41.png",
+      "stat": [
+        129531,
+        1791276893145779944,
+        1791276893145779944
+      ]
+    }
+  ]
+}

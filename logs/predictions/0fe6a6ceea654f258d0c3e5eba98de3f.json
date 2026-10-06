@@ -1,0 +1,16 @@
+{
+  "predicted_class": "early_blight",
+  "confidence": 0.9198240637779236,
+  "class_probabilities": {
+    "early_blight": 0.9198240637779236,
+    "healthy": 8.476558344128193e-10,
+    "late_blight": 0.08017589151859283
+  },
+  "inference_time_milliseconds": 139.38867900014884,
+  "model_path": "/workspace/scratch/18bae1faa97c/tomato_disease_classifier/models/best_model.keras",
+  "timestamp": "2026-10-06T09:03:56.146200+00:00",
+  "warning": null,
+  "confidence_note": "Confidence indicates classifier certainty for this image; it does not measure infected leaf area or disease severity.",
+  "scope_note": "Closed-set classifier: always selects one of three classes. Cannot establish that an image is a tomato leaf or reject other diseases reliably.",
+  "annotated_image": "/workspace/scratch/18bae1faa97c/tomato_disease_classifier/logs/predictions/0fe6a6ceea654f258d0c3e5eba98de3f.png"
+}

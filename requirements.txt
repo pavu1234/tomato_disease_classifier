@@ -1,0 +1,13 @@
+# Supported interpreter: Python 3.10–3.12. CPU works on Windows; use WSL2 for NVIDIA GPU.
+tensorflow==2.16.2
+keras==3.3.3
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+Pillow==11.1.0
+ImageHash==4.3.1
+PyYAML==6.0.2
+matplotlib==3.9.4
+seaborn==0.13.2
+opencv-python-headless==4.10.0.84
+pytest==8.3.5
